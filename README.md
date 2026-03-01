@@ -128,6 +128,6 @@ demo3/
 | 数据库 | H2（开发）/ MySQL（生产） |
 | 构建 | Maven + npm |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
