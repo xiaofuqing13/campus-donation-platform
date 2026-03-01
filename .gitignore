@@ -1,0 +1,30 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
+
+# H2
+*.mv.db
+*.trace.db
