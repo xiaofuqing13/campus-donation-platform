@@ -1,5 +1,8 @@
 # 校园公益捐赠平台
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 每学期末，校园里都会有同学清理闲置物品——旧课本、用过的生活用品、穿不下的衣物。多数时候这些东西直接扔掉或堆在寝室角落。想捐给需要的同学，但缺少一个方便的对接渠道——贴公告太麻烦，私聊效率低，信息散落在各个群里很快就被刷没了。本项目搭建了一个 Web 化的校园捐赠平台，捐赠者发布闲置物品信息，需要的同学在线浏览和登记领取，管理员可以统计捐赠数据。
 
 ## 痛点与目的
